@@ -1,0 +1,70 @@
+{
+  "run_id": "0f1a0dae-0499-465f-a2f7-0b4929bf7843",
+  "project_id": "d1dd2b7a-683e-42de-9702-5f441a520847",
+  "run_mode": "shadow",
+  "run_number": 1,
+  "status": "done",
+  "started_at": "2025-12-19T19:22:43.469467",
+  "ended_at": "2025-12-19T19:22:55.383632",
+  "duration_seconds": 11.914165,
+  "coordinator_branch": null,
+  "intent_branch": "intent/test2-0f1a0dae",
+  "pr_number": 85,
+  "pr_url": "https://github.com/sidthekid134/test-4/pull/85",
+  "total_stories": 1,
+  "completed_stories": 1,
+  "failed_stories": 0,
+  "snapshot": {
+    "id": "73d7c686-017a-46fe-8be2-95090696669b",
+    "name": "test2",
+    "description": "",
+    "dependencies": [],
+    "stories": [
+      {
+        "id": "30603b9f-9f8d-420f-8540-f5843af8487c",
+        "title": "121",
+        "description": "121",
+        "objective": "121",
+        "acceptance_criteria": [],
+        "implementation_notes": [],
+        "dependencies": [],
+        "workstream_id": "default",
+        "complexity_score": 0,
+        "estimated_tokens": 5000,
+        "status": "draft",
+        "order_index": 0,
+        "preferences": {
+          "preferred_agents": [],
+          "execution_overrides": {}
+        }
+      }
+    ]
+  },
+  "story_executions": [
+    {
+      "story_id": "30603b9f-9f8d-420f-8540-f5843af8487c",
+      "title": "121",
+      "description": "121",
+      "objective": "121",
+      "execution_id": "7fc86905-3431-462d-b3d3-7aca08faa5fa",
+      "attempt_number": 1,
+      "status": "done",
+      "agent_id": "shadow-engineer-1",
+      "agent_name": "shadow-engineer-1",
+      "branch": "story/30603b9f-9f8d-420f-8540-f5843af8487c-0f1a0dae",
+      "commit_sha": null,
+      "pr_number": 84,
+      "pr_url": "https://github.com/sidthekid134/test-4/pull/84",
+      "started_at": "2025-12-19T19:22:43.968642",
+      "ended_at": "2025-12-19T19:22:52.641477",
+      "duration_seconds": 8.672835,
+      "messages_count": null,
+      "files_modified": null,
+      "lines_added": null,
+      "lines_removed": null,
+      "error_message": null
+    }
+  ],
+  "created_at": "2025-12-19T19:22:43.458057",
+  "updated_at": "2025-12-19T19:22:55.383905"
+}
