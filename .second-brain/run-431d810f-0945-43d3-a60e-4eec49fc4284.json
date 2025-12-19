@@ -1,0 +1,42 @@
+{
+  "run_id": "1708b1bf-8f4f-4384-8c10-0f5a335f962e",
+  "project_id": "a1423789-408b-44a4-a92e-d39fa758b33a",
+  "run_mode": "shadow",
+  "status": "done",
+  "started_at": "2025-12-19T07:19:14.905829",
+  "ended_at": "2025-12-19T07:19:25.543590",
+  "duration_seconds": 10.637761,
+  "intent_ids": [
+    "431d810f-0945-43d3-a60e-4eec49fc4284"
+  ],
+  "summary": {
+    "total_intents": 1,
+    "completed_intents": 1,
+    "total_stories": 1,
+    "completed_stories": 1,
+    "failed_stories": 0,
+    "total_prs_created": 1,
+    "total_prs_merged": 0,
+    "final_pr_url": null,
+    "final_pr_number": null,
+    "final_pr_base": null,
+    "final_pr_head": null
+  },
+  "created_at": "2025-12-19T07:19:14.898590",
+  "updated_at": "2025-12-19T07:19:25.543768",
+  "snapshot": {
+    "id": "431d810f-0945-43d3-a60e-4eec49fc4284",
+    "name": "Placeholder Intent",
+    "description": "This is a placeholder intent. Edit it to describe what you want to build.",
+    "dependencies": [],
+    "stories": [
+      {
+        "id": "4ebb6860-2c0a-497c-b7d7-3c5fe76da539",
+        "objective": "Placeholder Story",
+        "acceptance_criteria": [],
+        "implementation_notes": [],
+        "dependencies": []
+      }
+    ]
+  }
+}
