@@ -1,0 +1,92 @@
+{
+  "run_id": "f690b900-7725-4d94-8e8a-f7613b215773",
+  "project_id": "f6793829-c114-4d33-aebf-2935d3d7032a",
+  "run_mode": "shadow",
+  "run_number": 1,
+  "status": "done",
+  "started_at": "2025-12-19T18:15:17.438244",
+  "ended_at": "2025-12-19T18:15:34.757977",
+  "duration_seconds": 17.319733,
+  "coordinator_branch": null,
+  "intent_branch": "intent/test-f690b900",
+  "pr_number": 81,
+  "pr_url": "https://github.com/sidthekid134/test-4/pull/81",
+  "total_stories": 2,
+  "completed_stories": 2,
+  "failed_stories": 0,
+  "snapshot": {
+    "id": "a950ef15-16a8-4deb-afdc-e0246614a550",
+    "name": "test",
+    "description": "",
+    "dependencies": [],
+    "stories": [
+      {
+        "id": "d690a140-2aad-4fbb-afeb-e34ceca2086a",
+        "title": "Stripe Payment Gateway Implementation",
+        "description": "stripe integration lorem upsum aja is the namins tager dfsidja stripe integration lorem upsum aja is the namins tager dfsidja stripe integration lorem upsum aja is the namins tager dfsidja",
+        "objective": "Stripe Payment Gateway Implementation",
+        "acceptance_criteria": [],
+        "implementation_notes": [],
+        "dependencies": []
+      },
+      {
+        "id": "ac919343-ae62-4d64-beb7-efa3da1fa887",
+        "title": null,
+        "description": "sdfsdf",
+        "objective": "New story",
+        "acceptance_criteria": [],
+        "implementation_notes": [],
+        "dependencies": [
+          {
+            "type": "story",
+            "id": "d690a140-2aad-4fbb-afeb-e34ceca2086a"
+          }
+        ]
+      }
+    ]
+  },
+  "story_executions": [
+    {
+      "story_id": "d690a140-2aad-4fbb-afeb-e34ceca2086a",
+      "execution_id": "54068c1f-d979-4fc5-b9d5-dd2cebee472e",
+      "attempt_number": 1,
+      "status": "done",
+      "agent_id": "shadow-engineer-1",
+      "agent_name": "shadow-engineer-1",
+      "branch": "story/d690a140-2aad-4fbb-afeb-e34ceca2086a-f690b900",
+      "commit_sha": null,
+      "pr_number": 79,
+      "pr_url": "https://github.com/sidthekid134/test-4/pull/79",
+      "started_at": "2025-12-19T18:15:18.003505",
+      "ended_at": "2025-12-19T18:15:25.142423",
+      "duration_seconds": 7.138918,
+      "messages_count": null,
+      "files_modified": null,
+      "lines_added": null,
+      "lines_removed": null,
+      "error_message": null
+    },
+    {
+      "story_id": "ac919343-ae62-4d64-beb7-efa3da1fa887",
+      "execution_id": "542f5ea8-0420-493f-a281-7a4ec1e6405a",
+      "attempt_number": 1,
+      "status": "done",
+      "agent_id": "shadow-engineer-1",
+      "agent_name": "shadow-engineer-1",
+      "branch": "story/ac919343-ae62-4d64-beb7-efa3da1fa887-f690b900",
+      "commit_sha": null,
+      "pr_number": 80,
+      "pr_url": "https://github.com/sidthekid134/test-4/pull/80",
+      "started_at": "2025-12-19T18:15:26.418654",
+      "ended_at": "2025-12-19T18:15:32.181772",
+      "duration_seconds": 5.763118,
+      "messages_count": null,
+      "files_modified": null,
+      "lines_added": null,
+      "lines_removed": null,
+      "error_message": null
+    }
+  ],
+  "created_at": "2025-12-19T18:15:17.417908",
+  "updated_at": "2025-12-19T18:15:34.758172"
+}
