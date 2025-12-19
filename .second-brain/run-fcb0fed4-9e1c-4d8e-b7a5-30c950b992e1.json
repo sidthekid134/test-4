@@ -1,0 +1,56 @@
+{
+  "run_id": "886a6cd6-137d-4184-964e-ee70a7d2c984",
+  "project_id": "86cb3949-7435-4863-acd0-b93bbbb1c994",
+  "run_mode": "shadow",
+  "run_number": 1,
+  "status": "done",
+  "started_at": "2025-12-19T08:06:14.960989",
+  "ended_at": "2025-12-19T08:06:24.860511",
+  "duration_seconds": 9.899522,
+  "coordinator_branch": null,
+  "intent_branch": "intent/second-886a6cd6",
+  "pr_number": 55,
+  "pr_url": "https://github.com/sidthekid134/test-4/pull/55",
+  "total_stories": 1,
+  "completed_stories": 1,
+  "failed_stories": 0,
+  "snapshot": {
+    "id": "fcb0fed4-9e1c-4d8e-b7a5-30c950b992e1",
+    "name": "second",
+    "description": "",
+    "dependencies": [],
+    "stories": [
+      {
+        "id": "a7036183-8910-4abe-839a-60217f3bd3fa",
+        "objective": "21",
+        "acceptance_criteria": [],
+        "implementation_notes": [],
+        "dependencies": []
+      }
+    ]
+  },
+  "story_executions": [
+    {
+      "story_id": "a7036183-8910-4abe-839a-60217f3bd3fa",
+      "execution_id": "318e11e8-7848-4040-b8fa-8a837caed6b0",
+      "attempt_number": 1,
+      "status": "done",
+      "agent_id": "shadow-engineer-1",
+      "agent_name": "shadow-engineer-1",
+      "branch": "story/a7036183-8910-4abe-839a-60217f3bd3fa-886a6cd6",
+      "commit_sha": null,
+      "pr_number": 54,
+      "pr_url": "https://github.com/sidthekid134/test-4/pull/54",
+      "started_at": "2025-12-19T08:06:15.373459",
+      "ended_at": "2025-12-19T08:06:22.296413",
+      "duration_seconds": 6.922954,
+      "messages_count": null,
+      "files_modified": null,
+      "lines_added": null,
+      "lines_removed": null,
+      "error_message": null
+    }
+  ],
+  "created_at": "2025-12-19T08:06:14.950708",
+  "updated_at": "2025-12-19T08:06:24.860700"
+}
