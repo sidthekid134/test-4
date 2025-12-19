@@ -1,0 +1,54 @@
+{
+  "run_id": "0571ce11-09fe-49ed-a989-63aa63a7adb6",
+  "project_id": "5f370a4d-155f-4b10-9124-e9135cba6753",
+  "run_mode": "shadow",
+  "status": "done",
+  "started_at": "2025-12-19T06:26:11.009137",
+  "ended_at": "2025-12-19T06:26:28.908993",
+  "duration_seconds": 17.899856,
+  "intent_ids": [
+    "3ff0df23-fb8c-46f9-82f2-749d32853e16"
+  ],
+  "summary": {
+    "total_intents": 1,
+    "completed_intents": 1,
+    "total_stories": 2,
+    "completed_stories": 2,
+    "failed_stories": 0,
+    "total_prs_created": 1,
+    "total_prs_merged": 0,
+    "final_pr_url": null,
+    "final_pr_number": null,
+    "final_pr_base": null,
+    "final_pr_head": null
+  },
+  "created_at": "2025-12-19T06:26:11.001066",
+  "updated_at": "2025-12-19T06:26:28.909415",
+  "snapshot": {
+    "id": "3ff0df23-fb8c-46f9-82f2-749d32853e16",
+    "name": "test-1",
+    "description": "",
+    "dependencies": [],
+    "stories": [
+      {
+        "id": "ebd458b6-be2b-4f15-abe3-28df92405924",
+        "objective": "11",
+        "acceptance_criteria": [],
+        "implementation_notes": [],
+        "dependencies": []
+      },
+      {
+        "id": "69692510-bb29-469e-a34f-23d0ffd58a65",
+        "objective": "12",
+        "acceptance_criteria": [],
+        "implementation_notes": [],
+        "dependencies": [
+          {
+            "type": "story",
+            "id": "ebd458b6-be2b-4f15-abe3-28df92405924"
+          }
+        ]
+      }
+    ]
+  }
+}
