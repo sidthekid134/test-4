@@ -1,0 +1,42 @@
+{
+  "run_id": "896f107f-74b6-4847-960f-1059f83d2dea",
+  "project_id": "471addfe-f951-464b-a2ea-5a6aa6128478",
+  "run_mode": "shadow",
+  "status": "done",
+  "started_at": "2025-12-19T06:34:27.181608",
+  "ended_at": "2025-12-19T06:34:36.834592",
+  "duration_seconds": 9.652984,
+  "intent_ids": [
+    "7245b928-cda9-439f-9a64-86fe9541ff39"
+  ],
+  "summary": {
+    "total_intents": 1,
+    "completed_intents": 1,
+    "total_stories": 1,
+    "completed_stories": 1,
+    "failed_stories": 0,
+    "total_prs_created": 1,
+    "total_prs_merged": 0,
+    "final_pr_url": null,
+    "final_pr_number": null,
+    "final_pr_base": null,
+    "final_pr_head": null
+  },
+  "created_at": "2025-12-19T06:34:27.170905",
+  "updated_at": "2025-12-19T06:34:36.834739",
+  "snapshot": {
+    "id": "7245b928-cda9-439f-9a64-86fe9541ff39",
+    "name": "test",
+    "description": "",
+    "dependencies": [],
+    "stories": [
+      {
+        "id": "252f7fa4-9800-4310-82ea-b78d86707c3d",
+        "objective": "11",
+        "acceptance_criteria": [],
+        "implementation_notes": [],
+        "dependencies": []
+      }
+    ]
+  }
+}
