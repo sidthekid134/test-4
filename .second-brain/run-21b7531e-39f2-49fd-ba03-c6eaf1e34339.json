@@ -1,0 +1,42 @@
+{
+  "run_id": "5599c4f0-7f30-42d0-b993-307f21b619ce",
+  "project_id": "a1423789-408b-44a4-a92e-d39fa758b33a",
+  "run_mode": "shadow",
+  "status": "done",
+  "started_at": "2025-12-19T07:29:19.265177",
+  "ended_at": "2025-12-19T07:29:29.301418",
+  "duration_seconds": 10.036241,
+  "intent_ids": [
+    "21b7531e-39f2-49fd-ba03-c6eaf1e34339"
+  ],
+  "summary": {
+    "total_intents": 1,
+    "completed_intents": 1,
+    "total_stories": 1,
+    "completed_stories": 1,
+    "failed_stories": 0,
+    "total_prs_created": 1,
+    "total_prs_merged": 0,
+    "final_pr_url": null,
+    "final_pr_number": null,
+    "final_pr_base": null,
+    "final_pr_head": null
+  },
+  "created_at": "2025-12-19T07:29:19.253512",
+  "updated_at": "2025-12-19T07:29:29.301582",
+  "snapshot": {
+    "id": "21b7531e-39f2-49fd-ba03-c6eaf1e34339",
+    "name": "test2",
+    "description": "",
+    "dependencies": [],
+    "stories": [
+      {
+        "id": "cec7e2be-5111-4aeb-8243-cfb9466424d5",
+        "objective": "21",
+        "acceptance_criteria": [],
+        "implementation_notes": [],
+        "dependencies": []
+      }
+    ]
+  }
+}
